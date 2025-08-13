@@ -87,7 +87,7 @@ cd Artificial-intelligence
     ?- solve_puzzle(Solution).
     ```
     
-    _Refer to the comments within each `.pl` file for specific query examples._
+
     
 
 ### Running Python Tasks
@@ -120,7 +120,6 @@ cd Artificial-intelligence
     Then, open the relevant `.ipynb` file in your browser and run the cells.
     
 
-_Refer to the comments/docstrings within each Python file/notebook for specific usage instructions._
 
 
 ## 🤝 Contributing
